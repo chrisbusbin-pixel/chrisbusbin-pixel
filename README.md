@@ -50,6 +50,31 @@ Indie founder building real software at the intersection of trading, AI, product
 
 - 🌐 [facilitybeacon.com](https://facilitybeacon.com)
 
+
+## 📰 Featured Resources
+
+Comparison guides and resources across the portfolio:
+
+**PromptForge:**
+- [AIPRM Alternative for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/aiprm-alternative/) — why native iOS beats a Chrome extension
+- [PromptForge vs PromptHero](https://chrisbusbin-pixel.github.io/promptforge-support/promptforge-vs-prompthero/) — private library vs marketplace
+
+**DebtFree:**
+- [Snowball vs Avalanche](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/snowball-vs-avalanche/) — which debt payoff method is right for you
+- [EveryDollar Alternative — No Bank Login](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/everydollar-alternative/) — $3.99 once vs $79.99/year
+
+**FreshTrack:**
+- [How to Reduce Food Waste at Home](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/reduce-food-waste/) — 9 specific tactics that work
+
+**Family Ops Hub:**
+- [Cozi Alternative for Kid Responsibility](https://chrisbusbin-pixel.github.io/promptforge-support/family-ops-hub/cozi-alternative/) — different focus, different product
+
+**WeddingDay:**
+- [Wedding Planner With No Vendor Spam](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/no-vendor-spam/) — The Knot/WeddingWire alternative
+
+**Press & Media:**
+- [Press Kit](https://chrisbusbin-pixel.github.io/promptforge-support/press/) — founder bio + per-app fact sheets + press angles
+
 ## 🧪 Featured Repositories
 
 | Repo | What it is |
