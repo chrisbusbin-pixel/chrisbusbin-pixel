@@ -3,6 +3,8 @@
 Indie founder building real software at the intersection of trading, AI, productivity, family ops, food sustainability, and B2B operations. I run a portfolio of focused apps — each treated as its own company solving one specific problem for one specific audience.
 
 ## 📱 Live Apps
+📍 **Portfolio hub:** [chrisbusbin-pixel.github.io/promptforge-support/apps.html](https://chrisbusbin-pixel.github.io/promptforge-support/apps.html) — all apps in one place.
+
 
 ### Trading
 **[Prop Firm Deal Finder (PFDF)](https://propfirmdealfinder.com)** — The largest aggregator of proprietary trading firm discounts, reviews, and deals. Free. Tracks 20+ futures, forex, and multi-asset prop firms with verified discount codes updated daily. Universal discount code: **`PFDF`** — works at every partner firm.
@@ -23,21 +25,25 @@ Indie founder building real software at the intersection of trading, AI, product
 **[DebtFree – Payoff Planner](https://apps.apple.com/us/app/debtfree-payoff-planner/id6760978185)** — Simple, powerful debt payoff planner with snowball + avalanche strategies, debt-free date calculator, and a what-if tool. **$3.99 one-time. No bank login required. All financial data stays on your device.** For anyone who wants a clear, actionable plan to eliminate credit card, student loan, medical, or auto debt.
 
 - 📱 [iOS App Store](https://apps.apple.com/us/app/debtfree-payoff-planner/id6760978185)
+- 🌐 [Marketing page](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/)
 
 ### Food & Sustainability
 **[FreshTrack: Food Saver](https://apps.apple.com/us/app/freshtrack-food-saver/id6764229469)** — Track what's in your fridge and pantry, get expiration reminders, and stop wasting food. $4.99 one-time. Built for households that want to save money and reduce waste — the average American household tosses ~30% of the food it buys.
 
 - 📱 [iOS App Store](https://apps.apple.com/us/app/freshtrack-food-saver/id6764229469)
+- 🌐 [Marketing page](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/)
 
 ### Family Operations
 **[Family Ops Hub](https://apps.apple.com/us/app/family-ops-hub/id6761000136)** — Family-first chore charts, calendars, lists, and **Kid Mode** for younger users. $4.99 one-time. COPPA-compliant. No ads. Built around kid responsibility and family rhythm, not generic shared calendars.
 
 - 📱 [iOS App Store](https://apps.apple.com/us/app/family-ops-hub/id6761000136)
+- 🌐 [Marketing page](https://chrisbusbin-pixel.github.io/promptforge-support/family-ops-hub/)
 
 ### Wedding Planning
 **[WeddingDay Planner and Budget](https://apps.apple.com/us/app/weddingday-planner-and-budget/id6760993416)** — Wedding planning + budgeting in one premium app. $9.99 one-time. **No vendor spam, no ads, no upsells.** For couples who want to plan their wedding without becoming a sales lead.
 
 - 📱 [iOS App Store](https://apps.apple.com/us/app/weddingday-planner-and-budget/id6760993416)
+- 🌐 [Marketing page](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/)
 
 ### B2B SaaS
 **[FacilityBeacon](https://facilitybeacon.com)** — Commercial building maintenance, work orders, preventive maintenance, code compliance, building operations. Built for hotels, senior living, K-12 schools, and multifamily operators who need software that handles real compliance pain (CMS F-tags, ADA, REAC, brand standards) — not just a work-order list.
