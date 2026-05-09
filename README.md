@@ -63,6 +63,7 @@ Comparison guides and resources across the portfolio:
 - [Best Midjourney Prompt Manager for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/midjourney-prompt-manager/) — save image-gen prompts that actually work
 - [Best Stable Diffusion Prompt Manager](https://chrisbusbin-pixel.github.io/promptforge-support/stable-diffusion-prompt-manager/) — save complete SD/Flux prompt sets
 - [AI Subscription Tracker for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/ai-subscription-tracker/) — stop paying for AI tools you don't use
+- [Best AI Tools for Writers](https://chrisbusbin-pixel.github.io/promptforge-support/best-ai-tools-for-writers/) — honest comparison of ChatGPT, Claude, Sudowrite, NovelCrafter
 
 **DebtFree:**
 - [Snowball vs Avalanche](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/snowball-vs-avalanche/) — which debt payoff method is right for you
@@ -70,12 +71,14 @@ Comparison guides and resources across the portfolio:
 - [Credit Card Payoff Calculator](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/credit-card-payoff-calculator/) — free in-browser calculator, no sign-up
 - [YNAB vs DebtFree](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/ynab-vs-debtfree/) — different tools, different jobs
 - [How to Pay Off $10,000 in Debt](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/pay-off-10000-in-debt/) — realistic plan + math-based timelines
+- [How to Negotiate Medical Bills](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/negotiate-medical-bills/) — 6-step process + federal protections
 
 **FreshTrack:**
 - [How to Reduce Food Waste at Home](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/reduce-food-waste/) — 9 specific tactics that work
 - [Best Food Expiration Tracker Apps for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/best-food-expiration-tracker-apps/) — honest comparison of free + paid options
 - [How Long Does Food Last in the Fridge?](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/food-storage-chart/) — complete USDA-based storage chart
 - [How to Save Money on Groceries](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/save-money-on-groceries/) — 12 tactics that cut bills 20-40%
+- [Weekly Meal Plan Template](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/weekly-meal-plan-template/) — realistic 7-day templates that survive Wednesday
 
 **Family Ops Hub:**
 - [Cozi Alternative for Kid Responsibility](https://chrisbusbin-pixel.github.io/promptforge-support/family-ops-hub/cozi-alternative/) — different focus, different product
@@ -86,12 +89,14 @@ Comparison guides and resources across the portfolio:
 - [Wedding Budget Calculator](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-budget-calculator/) — free in-browser calculator with industry-standard percentages
 - [Wedding Day Timeline Template](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-day-timeline/) — hour-by-hour schedule with buffer rules
 - [How to Plan a Wedding in 6 Months](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/plan-wedding-6-months/) — realistic month-by-month checklist
+- [Wedding Seating Chart Guide](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-seating-chart/) — round vs long tables, family drama, plan B
 
 **WeddingDay:**
 - [Wedding Planner With No Vendor Spam](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/no-vendor-spam/) — The Knot/WeddingWire alternative
 - [Wedding Budget Calculator](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-budget-calculator/) — free in-browser calculator with industry-standard percentages
 - [Wedding Day Timeline Template](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-day-timeline/) — hour-by-hour schedule with buffer rules
 - [How to Plan a Wedding in 6 Months](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/plan-wedding-6-months/) — realistic month-by-month checklist
+- [Wedding Seating Chart Guide](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-seating-chart/) — round vs long tables, family drama, plan B
 
 **Press & Media:**
 - [Press Kit](https://chrisbusbin-pixel.github.io/promptforge-support/press/) — founder bio + per-app fact sheets + press angles
