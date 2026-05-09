@@ -58,16 +58,20 @@ Comparison guides and resources across the portfolio:
 **PromptForge:**
 - [AIPRM Alternative for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/aiprm-alternative/) — why native iOS beats a Chrome extension
 - [PromptForge vs PromptHero](https://chrisbusbin-pixel.github.io/promptforge-support/promptforge-vs-prompthero/) — private library vs marketplace
+- [Best ChatGPT Prompt Manager for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/chatgpt-prompt-manager/) — what to look for in a real prompt manager
 
 **DebtFree:**
 - [Snowball vs Avalanche](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/snowball-vs-avalanche/) — which debt payoff method is right for you
 - [EveryDollar Alternative — No Bank Login](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/everydollar-alternative/) — $3.99 once vs $79.99/year
+- [Credit Card Payoff Calculator](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/credit-card-payoff-calculator/) — free in-browser calculator, no sign-up
 
 **FreshTrack:**
 - [How to Reduce Food Waste at Home](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/reduce-food-waste/) — 9 specific tactics that work
+- [Best Food Expiration Tracker Apps for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/best-food-expiration-tracker-apps/) — honest comparison of free + paid options
 
 **Family Ops Hub:**
 - [Cozi Alternative for Kid Responsibility](https://chrisbusbin-pixel.github.io/promptforge-support/family-ops-hub/cozi-alternative/) — different focus, different product
+- [Best Free Family Calendar Apps for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/family-ops-hub/free-family-calendar-apps/) — Apple Calendar, Cozi, Google Calendar comparison
 
 **WeddingDay:**
 - [Wedding Planner With No Vendor Spam](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/no-vendor-spam/) — The Knot/WeddingWire alternative
