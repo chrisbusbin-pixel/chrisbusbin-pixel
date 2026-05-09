@@ -65,6 +65,7 @@ Comparison guides and resources across the portfolio:
 - [AI Subscription Tracker for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/ai-subscription-tracker/) — stop paying for AI tools you don't use
 - [Best AI Tools for Writers](https://chrisbusbin-pixel.github.io/promptforge-support/best-ai-tools-for-writers/) — honest comparison of ChatGPT, Claude, Sudowrite, NovelCrafter
 - [Best AI Tools for Small Business](https://chrisbusbin-pixel.github.io/promptforge-support/best-ai-tools-for-small-business/) — honest stack for solopreneurs
+- [Best AI Tools for Students](https://chrisbusbin-pixel.github.io/promptforge-support/best-ai-tools-for-students/) — high school + college guide with academic integrity rules
 
 **DebtFree:**
 - [Snowball vs Avalanche](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/snowball-vs-avalanche/) — which debt payoff method is right for you
@@ -74,6 +75,7 @@ Comparison guides and resources across the portfolio:
 - [How to Pay Off $10,000 in Debt](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/pay-off-10000-in-debt/) — realistic plan + math-based timelines
 - [How to Negotiate Medical Bills](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/negotiate-medical-bills/) — 6-step process + federal protections
 - [How to Get Out of Debt Fast](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/get-out-of-debt-fast/) — the 7 levers that actually work
+- [How to Make a Budget](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/how-to-make-a-budget/) — 4 budget methods + 8-category template
 
 **FreshTrack:**
 - [How to Reduce Food Waste at Home](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/reduce-food-waste/) — 9 specific tactics that work
@@ -82,11 +84,13 @@ Comparison guides and resources across the portfolio:
 - [How to Save Money on Groceries](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/save-money-on-groceries/) — 12 tactics that cut bills 20-40%
 - [Weekly Meal Plan Template](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/weekly-meal-plan-template/) — realistic 7-day templates that survive Wednesday
 - [How to Organize Your Fridge](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/organize-your-fridge/) — food safety + waste reduction zones
+- [How to Freeze Food Properly](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/how-to-freeze-food/) — complete USDA-based guide for meat, produce, leftovers
 
 **Family Ops Hub:**
 - [Cozi Alternative for Kid Responsibility](https://chrisbusbin-pixel.github.io/promptforge-support/family-ops-hub/cozi-alternative/) — different focus, different product
 - [Best Free Family Calendar Apps for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/family-ops-hub/free-family-calendar-apps/) — Apple Calendar, Cozi, Google Calendar comparison
 - [Best Family Chore Chart App for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/family-ops-hub/family-chore-chart-app/) — what works by kid age + honest comparison
+- [Family Meal Planning Guide](https://chrisbusbin-pixel.github.io/promptforge-support/family-ops-hub/family-meal-planning/) — realistic for picky eaters and busy parents
 
 **WeddingDay:**
 - [Wedding Budget Calculator](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-budget-calculator/) — free in-browser calculator with industry-standard percentages
