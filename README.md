@@ -61,6 +61,8 @@ Comparison guides and resources across the portfolio:
 - [Best ChatGPT Prompt Manager for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/chatgpt-prompt-manager/) — what to look for in a real prompt manager
 - [How to Organize Your ChatGPT Prompts](https://chrisbusbin-pixel.github.io/promptforge-support/how-to-organize-chatgpt-prompts/) — practical 7-step system + folder templates
 - [Best Midjourney Prompt Manager for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/midjourney-prompt-manager/) — save image-gen prompts that actually work
+- [Best Stable Diffusion Prompt Manager](https://chrisbusbin-pixel.github.io/promptforge-support/stable-diffusion-prompt-manager/) — save complete SD/Flux prompt sets
+- [AI Subscription Tracker for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/ai-subscription-tracker/) — stop paying for AI tools you don't use
 
 **DebtFree:**
 - [Snowball vs Avalanche](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/snowball-vs-avalanche/) — which debt payoff method is right for you
@@ -73,6 +75,7 @@ Comparison guides and resources across the portfolio:
 - [How to Reduce Food Waste at Home](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/reduce-food-waste/) — 9 specific tactics that work
 - [Best Food Expiration Tracker Apps for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/best-food-expiration-tracker-apps/) — honest comparison of free + paid options
 - [How Long Does Food Last in the Fridge?](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/food-storage-chart/) — complete USDA-based storage chart
+- [How to Save Money on Groceries](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/save-money-on-groceries/) — 12 tactics that cut bills 20-40%
 
 **Family Ops Hub:**
 - [Cozi Alternative for Kid Responsibility](https://chrisbusbin-pixel.github.io/promptforge-support/family-ops-hub/cozi-alternative/) — different focus, different product
@@ -82,11 +85,13 @@ Comparison guides and resources across the portfolio:
 **WeddingDay:**
 - [Wedding Budget Calculator](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-budget-calculator/) — free in-browser calculator with industry-standard percentages
 - [Wedding Day Timeline Template](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-day-timeline/) — hour-by-hour schedule with buffer rules
+- [How to Plan a Wedding in 6 Months](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/plan-wedding-6-months/) — realistic month-by-month checklist
 
 **WeddingDay:**
 - [Wedding Planner With No Vendor Spam](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/no-vendor-spam/) — The Knot/WeddingWire alternative
 - [Wedding Budget Calculator](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-budget-calculator/) — free in-browser calculator with industry-standard percentages
 - [Wedding Day Timeline Template](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-day-timeline/) — hour-by-hour schedule with buffer rules
+- [How to Plan a Wedding in 6 Months](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/plan-wedding-6-months/) — realistic month-by-month checklist
 
 **Press & Media:**
 - [Press Kit](https://chrisbusbin-pixel.github.io/promptforge-support/press/) — founder bio + per-app fact sheets + press angles
