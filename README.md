@@ -60,16 +60,19 @@ Comparison guides and resources across the portfolio:
 - [PromptForge vs PromptHero](https://chrisbusbin-pixel.github.io/promptforge-support/promptforge-vs-prompthero/) — private library vs marketplace
 - [Best ChatGPT Prompt Manager for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/chatgpt-prompt-manager/) — what to look for in a real prompt manager
 - [How to Organize Your ChatGPT Prompts](https://chrisbusbin-pixel.github.io/promptforge-support/how-to-organize-chatgpt-prompts/) — practical 7-step system + folder templates
+- [Best Midjourney Prompt Manager for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/midjourney-prompt-manager/) — save image-gen prompts that actually work
 
 **DebtFree:**
 - [Snowball vs Avalanche](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/snowball-vs-avalanche/) — which debt payoff method is right for you
 - [EveryDollar Alternative — No Bank Login](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/everydollar-alternative/) — $3.99 once vs $79.99/year
 - [Credit Card Payoff Calculator](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/credit-card-payoff-calculator/) — free in-browser calculator, no sign-up
 - [YNAB vs DebtFree](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/ynab-vs-debtfree/) — different tools, different jobs
+- [How to Pay Off $10,000 in Debt](https://chrisbusbin-pixel.github.io/promptforge-support/debtfree/pay-off-10000-in-debt/) — realistic plan + math-based timelines
 
 **FreshTrack:**
 - [How to Reduce Food Waste at Home](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/reduce-food-waste/) — 9 specific tactics that work
 - [Best Food Expiration Tracker Apps for iPhone](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/best-food-expiration-tracker-apps/) — honest comparison of free + paid options
+- [How Long Does Food Last in the Fridge?](https://chrisbusbin-pixel.github.io/promptforge-support/freshtrack/food-storage-chart/) — complete USDA-based storage chart
 
 **Family Ops Hub:**
 - [Cozi Alternative for Kid Responsibility](https://chrisbusbin-pixel.github.io/promptforge-support/family-ops-hub/cozi-alternative/) — different focus, different product
@@ -78,10 +81,12 @@ Comparison guides and resources across the portfolio:
 
 **WeddingDay:**
 - [Wedding Budget Calculator](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-budget-calculator/) — free in-browser calculator with industry-standard percentages
+- [Wedding Day Timeline Template](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-day-timeline/) — hour-by-hour schedule with buffer rules
 
 **WeddingDay:**
 - [Wedding Planner With No Vendor Spam](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/no-vendor-spam/) — The Knot/WeddingWire alternative
 - [Wedding Budget Calculator](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-budget-calculator/) — free in-browser calculator with industry-standard percentages
+- [Wedding Day Timeline Template](https://chrisbusbin-pixel.github.io/promptforge-support/weddingday/wedding-day-timeline/) — hour-by-hour schedule with buffer rules
 
 **Press & Media:**
 - [Press Kit](https://chrisbusbin-pixel.github.io/promptforge-support/press/) — founder bio + per-app fact sheets + press angles
