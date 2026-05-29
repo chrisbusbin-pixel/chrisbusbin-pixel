@@ -11,6 +11,7 @@ Indie founder building real software at the intersection of trading, AI, product
 
 - 🌐 [propfirmdealfinder.com](https://propfirmdealfinder.com)
 - 📱 [iOS App Store](https://apps.apple.com/us/app/prop-firm-deal-finder/id6758235452)
+- 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.propfirmdealfinder.twa) — **NEW**
 - 🪟 [Microsoft Store](https://apps.microsoft.com/detail/9PJD0XN2V58Q)
 - 🧩 [Chrome Extension](https://chromewebstore.google.com/detail/prop-firm-deal-finder/bhciijhpmnildmgnjbbbmdhhdebfhpfa)
 - 🤖 [MCP Server](https://www.npmjs.com/package/propfirmdealfinder-mcp-server) — for Claude, ChatGPT, Cursor, and any MCP-compatible AI
